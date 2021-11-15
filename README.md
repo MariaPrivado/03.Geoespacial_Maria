@@ -16,28 +16,41 @@ Hemos utilizado los siguientes recursos:
 
 # Libraries
 ​
+
 [sys](https://docs.python.org/3/library/sys.html)
 ​
+
 [requests](https://pypi.org/project/requests/2.7.0/)
 ​
+
 [pandas](https://pandas.pydata.org/)
 ​
+
 [dotenv](https://pypi.org/project/python-dotenv/)
 ​
+
 [pymongo](https://www.mongodb.com/2)
 ​
+
 [json](https://docs.python.org/3/library/json.html)
 ​
+
 [os](https://docs.python.org/3/library/os.html)
 ​
+
 [geopandas](https://geopandas.org/)
 ​
+
 [shapely](https://pypi.org/project/Shapely/)
 ​
+
 [reduce](https://docs.python.org/3/library/functools.html)
 ​
+
 [operator](https://docs.python.org/3/library/operator.html)
 ​
+
 [import dumps](https://pymongo.readthedocs.io/en/stable/api/bson/json_util.html)
 ​
+
 [re](https://docs.python.org/3/library/re.html)
